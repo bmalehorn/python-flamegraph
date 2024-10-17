@@ -1,11 +1,14 @@
 A simple statistical profiler which outputs in format suitable for FlameGraph_.
 
+This is forked from https://github.com/evanhempel/python-flamegraph and updated to support Python 3.8+.
+Related: https://github.com/evanhempel/python-flamegraph/issues/18
+
 INSTALL:
 --------
 
 Simply run::
 
-  pip install git+https://github.com/evanhempel/python-flamegraph.git
+  pip install git+https://github.com/bmalehorn/python-flamegraph.git
 
 USAGE:
 ------
